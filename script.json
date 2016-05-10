@@ -4,7 +4,12 @@
      "WELL, WHY NOT": "That's the spirit. Let's see what we've got.\nHow about this superfine wool tee from Portland Oregon based Wool & Prince?\n![wooltee1](https://raw.githubusercontent.com/hughmcfall/EstherBot/master/img/wooltee1.jpg) %[Tell me more](postback:tell_me_more) %[Anything else?](postback:anything_else?)",
      "TELL ME MORE": "You won’t find this fabric anywhere else. It's a wool-nylon blend that our founder tested for 6 months. Buck the fast fashion trend and buy something that's strong and durable.\nIt comes in Navy, White, and Blue, and it's $68 USD.\nOh, and there's Free shipping and handling anywhere in the U.S. %[I want it](postback:i_want_it) %[No thanks](postback:no_thanks)",
      "ANYTHING ELSE?": "Not yet.",
-     "I WANT IT": "What size are you?",
+     "I WANT IT": "What size are you? %[S](postback:s) %[M](postback:M) %[L](postback:L) %[XL](postback:XL)",  
+     "S": "Sweet, we've got a small in stock. Your total, with taxes included, is 73.37. %[Let's do this](postback:lets_do_this)"
+     "M": "Sweet, we've got a medium in stock. Your total, with taxes included, is 73.37. %[Let's do this](postback:lets_do_this)"
+     "L": "Sweet, we've got a large in stock. Your total, with taxes included, is 73.37. %[Let's do this](postback:lets_do_this)"
+     "XL": "Sweet, we've got an extra large in stock. Your total, with taxes included, is 73.37. %[Let's do this](postback:lets_do_this)"
+     "LETS DO THIS": "Great! Thanks for supporting a business that is out to change the world. We hope you love your new T Shirt. We'll let you know when it ships!"
      "NO, THANKS": "Okay, no problem.",
      "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
      "I LOVE YOU": "Awh, shucks! I love you too!",
