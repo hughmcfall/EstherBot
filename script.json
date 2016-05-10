@@ -1,7 +1,11 @@
 {
      "BOT": "Hi there!\nWelcome to GoodMarket.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to learn more about us? %[Why not](postback:why_not) %[What is this thing?](postback:what_is_this_thing) %[One random fact!](postback:random_fact)",
      "HELLO": "Hey there, friend. Welcome to GoodMarket.\nWe're a Messenger-only store where you can buy cool stuff from social enterprises that are making the world a better place. Let us show you around so you can see how things work. Want to see some T Shirts? %[Well, why not](postback:well_why_not)",
-     "WELL, WHY NOT": "That's the spirit. Let's see what we've got.\nHow about this superfine wool tee from Portland Oregon based Wool & Prince?\n![wooltee1](https://raw.githubusercontent.com/hughmcfall/EstherBot/master/img/wooltee1.jpg)",
+     "WELL, WHY NOT": "That's the spirit. Let's see what we've got.\nHow about this superfine wool tee from Portland Oregon based Wool & Prince?\n![wooltee1](https://raw.githubusercontent.com/hughmcfall/EstherBot/master/img/wooltee1.jpg) %[Tell me more](postback:tell_me_more) %[Anything else?](postback:anything_else?)",
+     "TELL ME MORE": "You won’t find this fabric anywhere else. It's a wool-nylon blend that our founder tested for 6 months. Buck the fast fashion trend and buy something that's strong and durable.\nIt comes in Navy, White, and Blue, and it's $68 USD.\nOh, and there's Free shipping and handling anywhere in the U.S. %[I want it](postback:i_want_it) %[No thanks](postback:no_thanks)",
+     "ANYTHING ELSE?": "Not yet.",
+     "I WANT IT": "What size are you?",
+     "NO, THANKS": "Okay, no problem.",
      "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
      "I LOVE YOU": "Awh, shucks! I love you too!",
      "TELL HER": "A Canadian guy named Hugh McFall made Shift because he thinks this is a really interesting way for people to find stories that matter to them. Any feedback? Let him know on Twitter!: %[Tweet Hugh](http://www.twitter.com/hughmcfall)",
