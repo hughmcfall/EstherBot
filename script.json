@@ -1,6 +1,7 @@
 {
      "BOT": "Hi there!\nWelcome to Shift.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to learn more about us? %[Why not](postback:why_not) %[What is this thing?](postback:what_is_this_thing) %[One random fact!](postback:random_fact)",
-     "HELLO": "Hey, welcome to GoodMarket. We're a Messenger-only store where you can buy cool stuff from social enterprises that are making the world a better place. Let us show you around so you can see how things work. Want to see some T Shirts? %[Yes](postback:twitter)",
+     "HELLO": "Hey, welcome to GoodMarket. We're a Messenger-only store where you can buy cool stuff from social enterprises that are making the world a better place. Let us show you around so you can see how things work. Want to see some T Shirts? %[Yes](postback:start)",
+     "YES": "Let's see what we've got."
      "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
      "I LOVE YOU": "Awh, shucks! I love you too!",
      "TELL HER": "A Canadian guy named Hugh McFall made Shift because he thinks this is a really interesting way for people to find stories that matter to them. Any feedback? Let him know on Twitter!: %[Tweet Hugh](http://www.twitter.com/hughmcfall)",
